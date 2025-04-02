@@ -1,6 +1,7 @@
 # WorldWise 🌍
 
 WorldWise is a travel-tracking app built with React and Vite, designed to help users log, organize, and visualize their travel experiences. With an interactive map and city-based tracking, WorldWise provides an intuitive way to document past trips, make notes about each location, and explore the places you've visited. 
+
 The app offers a simple yet effective approach to personal travel logging, making it easier to reflect on past journeys and plan future adventures.
 
 ## Features 🚀
