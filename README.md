@@ -25,6 +25,29 @@ The app offers a simple yet effective approach to personal travel logging, makin
 - **Global State Management**: Uses `createContext` to manage application state efficiently.
 - **Logout**: Redirects to the homepage.
 
+## Explore the Feature 🗺
+
+**Homepage**
+![1](https://github.com/user-attachments/assets/27986cfc-f650-4d80-a877-fab29af711a9)
+
+**Logout**
+![2](https://github.com/user-attachments/assets/eeb56355-3174-4a01-899c-79c242e8c11b)
+
+**App/Cities**
+![3](https://github.com/user-attachments/assets/40cfc759-b737-4825-8af5-5468d52abed1)
+
+**App/Countries**
+![5](https://github.com/user-attachments/assets/7aa6226b-1054-4d48-bf39-3c2c1f999584)
+
+**Visited Cities**
+![4](https://github.com/user-attachments/assets/b2f89bd6-879b-4e26-a853-cca027efb0c1)
+
+**Add City**
+![6](https://github.com/user-attachments/assets/e0f2c033-4369-45ec-aa26-4333071ae707)
+
+**About Page**
+![1 1](https://github.com/user-attachments/assets/e6f7578d-9c03-4ea6-8115-1c4a58dbd6bb)
+
 ## Tech Stack 🛠️
 
 - React (useState, useEffect, React Router, createContext)
