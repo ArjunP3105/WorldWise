@@ -55,14 +55,12 @@ The app offers a simple yet effective approach to personal travel logging, makin
    npm run server
    ```
 
-## Usage 📌
 
-- Log in to access the app.
-- Click the map to add a city.
-- Select the visit date using React Date Picker.
-- View and filter saved cities.
-- Click a city to see details and move the map.
-- Delete cities if needed.
-- Logout to return to the homepage.
+# Let's Connect! :
+
+LinkedIn - [Arjun P](https://www.linkedin.com/in/arjun-p-810a96318/) 
+
+GitHub - [ArjunP3105](https://github.com/ArjunP3105)
+
 
 
