@@ -16,7 +16,7 @@ const Pricing = lazy(() => import("./pages/Pricing"));
 const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 const AppLayout = lazy(() => import("./pages/AppLayout"));
 const Login = lazy(() => import("./pages/Login"));
-const Product = lazy(() => import("./pages/product"));
+const Product = lazy(() => import("./pages/Product"));
 
 function App() {
   return (
